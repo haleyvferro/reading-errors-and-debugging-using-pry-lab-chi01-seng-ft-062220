@@ -1,4 +1,4 @@
-require 'pry'
+
 
 player1 = "Rocky"
 player2 = "Bullwinkle"
